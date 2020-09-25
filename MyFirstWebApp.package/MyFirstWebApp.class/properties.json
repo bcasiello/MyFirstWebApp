@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "BrianCasiello 9/25/2020 12:39",
+	"super" : "Object",
+	"category" : "MyFirstWebApp",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"image"
+	],
+	"name" : "MyFirstWebApp",
+	"type" : "normal"
+}
